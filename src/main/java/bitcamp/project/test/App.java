@@ -42,7 +42,7 @@ public class App {
     System.out.println("1234");
     
     System.out.println("병합 연습");
-    System.out.println("뇌정지온다");
+    System.out.println("뇌정지온다11");
   }
 
 }
