@@ -3,11 +3,7 @@
  */
 package bitcamp.project.test;
 
-<<<<<<< HEAD
 import bitcamp.project.test.service.Heewook;
-=======
-import bitcamp.project.test.service.sangmin;
->>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
 import bitcamp.project.test.service.StudyMemberService;
 import bitcamp.project.test.service.sangmin;
 
@@ -17,26 +13,18 @@ public class App {
   }
 
   public static void main(String[] args) {
-<<<<<<< HEAD
     System.out.println("-------------------------------------------");
     Heewook h = new Heewook();
     h.list();
     System.out.println("-------------------------------------------");
- 
-    System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
+
     sangmin s = new sangmin();
     s.list();
     System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
-    
-=======
-    System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
-    sangmin s = new sangmin();
-    s.list();
-    System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
->>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
-    
+
     System.out.println("***********************");
     StudyMemberService sms = new StudyMemberService();
     sms.list();
     System.out.println("***********************");
+  }
 }
