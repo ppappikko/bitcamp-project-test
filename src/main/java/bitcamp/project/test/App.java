@@ -15,5 +15,9 @@ public class App {
     Heewook h = new Heewook();
     h.list();
     System.out.println("-------------------------------------------");
-  }
+ 
+    System.out.println("***********************");
+    StudyMemberService sms = new StudyMemberService();
+    sms.list();
+    System.out.println("***********************");
 }
