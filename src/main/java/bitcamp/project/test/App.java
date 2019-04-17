@@ -1,6 +1,7 @@
 package bitcamp.project.test;
 
 import bitcamp.project.test.service.sangmin;
+import bitcamp.project.test.service.StudyMemberService;
 
 public class App {
   public String getGreeting() {
@@ -12,5 +13,10 @@ public class App {
     sangmin s = new sangmin();
     s.list();
     System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
+    
+    System.out.println("***********************");
+    StudyMemberService sms = new StudyMemberService();
+    sms.list();
+    System.out.println("***********************");
   }
 }
