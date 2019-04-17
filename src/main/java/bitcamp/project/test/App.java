@@ -18,8 +18,8 @@ public class App {
     h.list();
     System.out.println("-------------------------------------------");
 
-    sangmin s = new sangmin();
-    s.list();
+    sangmin a = new sangmin();
+    a.list();
     System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
 
     System.out.println("***********************");
