@@ -42,7 +42,11 @@ public class App {
     System.out.println("1234");
     
     System.out.println("병합 연습");
+<<<<<<< HEAD
     System.out.println("뇌정지온다11");
+=======
+    System.out.println("뇌정지온다");
+>>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test
   }
 
 }
