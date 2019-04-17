@@ -4,7 +4,6 @@ import bitcamp.project.test.service.Heewook;
 import bitcamp.project.test.service.Jihwan;
 import bitcamp.project.test.service.StudyMemberService;
 import bitcamp.project.test.service.sangmin;
-import bitcamp.project.test.service.StudyService;
 
 public class App {
   public String getGreeting() {
@@ -32,8 +31,8 @@ public class App {
     sms.list();
     System.out.println("***********************");
     /*---------------------------------------------------------*/
-  }
-    
     System.out.println("1234");
+    
+    System.out.println("병합 연습");
   }
 }
