@@ -9,7 +9,6 @@ public class App {
   public String getGreeting() {
     return "Hello world.";
   }
-
   public static void main(String[] args) {
     System.out.println("졸립다..");
     Jihwan jihwan = new Jihwan();
@@ -26,10 +25,14 @@ public class App {
     s.list();
     System.out.println("⎝༼ ◕-д-◕ ༽⎠⎝༼ ◕-д-◕ ༽⎠");
     /*---------------------------------------------------------*/
+
     System.out.println("***********************");
     StudyMemberService sms = new StudyMemberService();
     sms.list();
     System.out.println("***********************");
     /*---------------------------------------------------------*/
+  }
+    
+    System.out.println("1234");
   }
 }
