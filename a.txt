@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 
 
 =======
->>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
 오호라~지희욱추가
 
 
@@ -23,4 +22,6 @@
 
 상민 : 우헤헤...
 희욱 : 우헤헤...
+
+혜인 :우헤헤...
 
