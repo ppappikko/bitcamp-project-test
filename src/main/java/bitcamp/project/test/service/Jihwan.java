@@ -1,4 +1,4 @@
-package service;
+package bitcamp.project.test.service;
 
 public class Jihwan {
   public void list() {

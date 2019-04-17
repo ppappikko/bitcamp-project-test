@@ -13,4 +13,11 @@ public class App {
     jihwan.list();
     System.out.println("졸립다..");
   }
+
+    
+    System.out.println("***********************");
+    StudyMemberService sms = new StudyMemberService();
+    sms.list();
+    System.out.println("***********************");
+  
 }
