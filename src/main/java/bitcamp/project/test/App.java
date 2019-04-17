@@ -1,14 +1,15 @@
 package bitcamp.project.test;
 
-public class App {
-    public String getGreeting() {
-        return "Hello world.";
-    }
+import bitcamp.project.test.service.StudyMemberService;
 
-    public static void main(String[] args) {
-      System.out.println("------------------------------");
-      StudyMemberService s = new StudyMemberService();
-      s.List();
-      System.out.println("------------------------------");
-    }
+public class App {
+  public String getGreeting() {
+    return "Hello world.";
+  }
+  public static void main(String[] args) {
+    System.out.println("------------------------------");
+    StudyMemberService s = new StudyMemberService();
+    s.list();
+    System.out.println("------------------------------");
+  }
 }
