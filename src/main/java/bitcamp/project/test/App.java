@@ -39,6 +39,10 @@ public class App {
     sms.list();
     System.out.println("***********************");
     /*---------------------------------------------------------*/
-  }
+    System.out.println("1234");
     
+    System.out.println("병합 연습");
+    System.out.println("뇌정지온다");
+  }
+
 }
