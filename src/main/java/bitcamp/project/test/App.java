@@ -11,7 +11,7 @@ public class App {
   public static void main(String[] args) {
   System.out.println("--------------------------------------");
   StudyService studentService = new StudyService();
-  studentService.list("스프링");
+  studentService.list("스프링ㅎㅎ");
   System.out.println("--------------------------------------");
 
   System.out.println("-------------------------------------------");
