@@ -31,16 +31,9 @@ public class App {
     sms.list();
     System.out.println("***********************");
     /*---------------------------------------------------------*/
-<<<<<<< HEAD
-=======
-    
->>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
     System.out.println("1234");
-<<<<<<< HEAD
     
     System.out.println("병합 연습");
-=======
     System.out.println("뇌정지온다");
->>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
   }
 }
