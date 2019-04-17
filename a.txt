@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 dddddddddddddddddddd
 
@@ -32,3 +33,6 @@ dddddddddddddddddddd
 
 =======
 희욱 : 우헤헤헤헤헤헤헤헤헤헤
+=======
+ffgfgasdfasdfasdfasdfasdfasdf
+>>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
