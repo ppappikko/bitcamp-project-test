@@ -1,5 +1,9 @@
 jihwan
 
 ohora~~ohora~~ohora~~
+<<<<<<< HEAD
+ggg~   gg
+=======
 ggg~   \
 ㅎㅁㅎㅁㅎㅁㅎㅁㅇㄴㄹㅇ
+>>>>>>> branch 'master' of https://github.com/ppappikko/bitcamp-project-test.git
