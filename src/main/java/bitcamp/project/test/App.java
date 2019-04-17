@@ -12,9 +12,11 @@ public class App {
   }
   public static void main(String[] args) {
     
+    System.out.println("-------------------------------------------");
     StudyService studyService = new StudyService();
     studyService.list("git");
     System.out.println("지우지 마세요ㅠㅠ..");
+    System.out.println("-------------------------------------------");
     
     System.out.println("졸립다..");
     Jihwan jihwan = new Jihwan();
