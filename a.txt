@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+ffgfg
+ㅇㅇㅇㅇㅇ
+=======
+<<<<<<< HEAD
 
 dddddddddddddddddddd
-
 =======
 오호라~지희욱추가
 
@@ -18,7 +21,7 @@ dddddddddddddddddddd
 지환 : 우헤헤...
 오호라~지희욱추가
 오호라~지희욱추가
-<<<<<<< HEAD
+
 오호라~지희욱추가
 =======
 희욱 : 우헤헤...
@@ -36,4 +39,4 @@ dddddddddddddddddddd
 =======
 ffgfgasdfasdfasdfasdfasdfasdf
 
-나도 우헤헤..ㅠ
+
